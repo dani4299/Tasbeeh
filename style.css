@@ -1,0 +1,38 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: white;
+}
+#mybutton{
+    width: 70px;          
+    height: 70px;         
+    border-radius: 50%;    
+    background-color: #2b179d; 
+    border: none;         
+    color: white;          
+    text-align: center;   
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px;       
+    line-height: 50px;   
+    cursor: pointer; 
+
+}
+#myh2{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+#reset{
+    background-color: #2b179d;
+    background-color: rgb(21, 21, 183);
+    border : none;
+    color: white;
+
+    
+    }
+    #mypara{
+        font-size:50%;
+      align-content: end;
+    }
